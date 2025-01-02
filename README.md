@@ -17,5 +17,5 @@
 3. File Modification: It appends new content to an existing file while preserving its current data.
 
 # OUTPUT OF THE TASK
-
+![FileOperatins](https://github.com/user-attachments/assets/82a0a4a2-20e5-4c73-bbd9-6433362d340d)
 
