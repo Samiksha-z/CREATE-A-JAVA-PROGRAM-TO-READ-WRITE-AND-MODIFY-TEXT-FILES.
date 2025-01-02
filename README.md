@@ -19,3 +19,5 @@
 # OUTPUT OF THE TASK
 ![FileOperatins](https://github.com/user-attachments/assets/82a0a4a2-20e5-4c73-bbd9-6433362d340d)
 
+![SimpleFileOperations](https://github.com/user-attachments/assets/30fa4e68-b047-4e63-ad79-632ee63b2b67)
+
