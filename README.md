@@ -15,3 +15,4 @@
 **ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS**: 1.File Writing: The program writes user-provided text into a file using BufferedWriter.
 2. File Reading: It reads and displays the content of the file line by line using BufferedReader.
 3. File Modification: It appends new content to an existing file while preserving its current data.
+# OUTPUT OF THE TASK
